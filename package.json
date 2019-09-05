@@ -1,0 +1,15 @@
+{
+  "name": "express_node_demo",
+  "version": "1.0.0",
+  "description": "express node js demo to serve web pages",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webserver.js"
+  },
+  "author": "alokraj68",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
